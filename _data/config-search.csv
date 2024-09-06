@@ -1,7 +1,7 @@
-field,index,display
-title,true,true
-date,true,true
-creator,true,false
-description,true,true
-subject,true,true
-location,true,false
+Field,Index,Display
+Title,True,True
+Date,True,True
+Creator,True,False
+Description,True,True
+Subject,True,True
+Location,True,False
